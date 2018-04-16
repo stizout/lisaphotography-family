@@ -1,0 +1,71 @@
+body {
+	background: rgba(244, 195, 237, .3);
+}
+.bg-light {
+	background: white!important;
+} 
+.nav-link {
+	color: black!important;
+	font-weight: bold;
+	font-family: Raleway;
+}
+.navbar-brand {
+	color: black!important;
+	font-weight: bold;
+	font-family: Raleway;
+	}
+
+#topImage {
+	margin-top: 90px;
+}
+
+.largeDemo img {
+	border-radius: 100px;
+}
+
+.parallax1 {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(http://kb4images.com/images/family-pictures/36399749-family-pictures.jpg);
+}
+
+#phrase1 {
+	padding: 200px 0;
+	margin: 50px 0;
+	font-family: Raleway;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.parallax2 {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://static.pexels.com/photos/39691/family-pier-man-woman-39691.jpeg);
+}
+
+.container h1 {
+	text-align: center;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+}
+.img-thumbnail {
+	height: 236px;
+	width: 100%;
+	margin: 5px 0;
+	object-fit: contain;
+}
+
+#bottom {
+	padding: 30px 0;
+	background-color: white;
+}
+
+
+
